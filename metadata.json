@@ -1,0 +1,6 @@
+{
+  "name": "환율 비교기",
+  "description": "실시간 한국(KRW) 및 타지키스탄(TJS) 환율 비교 및 AI 경제 분석 제공",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
